@@ -1,0 +1,10 @@
+h:\Workings\GDrive\Sync\Class\ASPBudgetingApp\bin\Debug\netcoreapp2.0\ASPBudgetingApp.deps.json
+h:\Workings\GDrive\Sync\Class\ASPBudgetingApp\bin\Debug\netcoreapp2.0\ASPBudgetingApp.runtimeconfig.json
+h:\Workings\GDrive\Sync\Class\ASPBudgetingApp\bin\Debug\netcoreapp2.0\ASPBudgetingApp.runtimeconfig.dev.json
+h:\Workings\GDrive\Sync\Class\ASPBudgetingApp\bin\Debug\netcoreapp2.0\ASPBudgetingApp.dll
+h:\Workings\GDrive\Sync\Class\ASPBudgetingApp\bin\Debug\netcoreapp2.0\ASPBudgetingApp.pdb
+h:\Workings\GDrive\Sync\Class\ASPBudgetingApp\obj\Debug\netcoreapp2.0\ASPBudgetingApp.csproj.CoreCompileInputs.cache
+h:\Workings\GDrive\Sync\Class\ASPBudgetingApp\obj\Debug\netcoreapp2.0\ASPBudgetingApp.AssemblyInfoInputs.cache
+h:\Workings\GDrive\Sync\Class\ASPBudgetingApp\obj\Debug\netcoreapp2.0\ASPBudgetingApp.AssemblyInfo.cs
+h:\Workings\GDrive\Sync\Class\ASPBudgetingApp\obj\Debug\netcoreapp2.0\ASPBudgetingApp.dll
+h:\Workings\GDrive\Sync\Class\ASPBudgetingApp\obj\Debug\netcoreapp2.0\ASPBudgetingApp.pdb
